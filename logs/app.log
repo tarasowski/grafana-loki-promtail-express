@@ -1,11 +1,22 @@
-2025-01-09 06:09:31 [info]: Server läuft auf 5001
-2025-01-09 06:09:48 [info]: Wurzel Route aufgerufen
-2025-01-09 06:10:04 [info]: Hallo Welt Route aufgerufen
-2025-01-09 06:10:10 [info]: Bye Route aufgerufen
-2025-01-09 06:40:00 [info]: Wurzel Route aufgerufen
-2025-01-09 06:40:02 [info]: Wurzel Route aufgerufen
-2025-01-09 06:40:03 [info]: Wurzel Route aufgerufen
-2025-01-09 06:40:08 [info]: Hallo Welt Route aufgerufen
-2025-01-09 07:10:47 [info]: Hallo Welt Route aufgerufen
-2025-01-09 07:10:50 [info]: Wurzel Route aufgerufen
-2025-01-09 07:10:52 [info]: Hallo Welt Route aufgerufen
+2025-01-09 12:03:45 [info]: Server läuft auf 5001
+2025-01-09 12:04:14 [info]: Wurzel Route aufgerufen
+2025-01-09 12:04:42 [info]: Wurzel Route aufgerufen
+2025-01-09 12:05:27 [info]: Wurzel Route aufgerufen
+2025-01-09 12:05:38 [info]: Wurzel Route aufgerufen
+2025-01-09 12:05:40 [info]: Wurzel Route aufgerufen
+2025-01-09 12:06:23 [info]: Wurzel Route aufgerufen
+2025-01-09 12:06:40 [info]: Wurzel Route aufgerufen
+2025-01-09 12:07:22 [info]: Wurzel Route aufgerufen
+2025-01-09 12:09:21 [info]: Hallo Welt Route aufgerufen
+2025-01-09 12:09:35 [info]: Bye Route aufgerufen
+2025-01-09 12:52:59 [info]: Wurzel Route aufgerufen
+2025-01-09 12:53:05 [info]: Hallo Welt Route aufgerufen
+2025-01-09 12:53:13 [info]: Bye Route aufgerufen
+2025-01-09 12:53:39 [info]: Bye Route aufgerufen
+2025-01-10 12:59:42 [info]: Server läuft auf 5001
+2025-01-10 13:01:55 [info]: Hallo Welt Route aufgerufen
+2025-01-10 13:03:32 [info]: Server läuft auf 5001
+2025-01-10 13:03:37 [error]: Seite nicht erreichbar: Route /error
+2025-01-10 13:04:10 [error]: Seite nicht erreichbar: Route /error
+2025-01-10 13:04:11 [error]: Seite nicht erreichbar: Route /error
+2025-01-10 13:04:19 [error]: Seite nicht erreichbar: Route /error
