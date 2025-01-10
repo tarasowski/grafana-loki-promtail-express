@@ -20,9 +20,6 @@
    ```
 
 4. **Check if Promtail and Loki are Ready**  
-   - To check if **Promtail** is running and ready, visit:  
-     - **Metrics**: [http://localhost:9080/metrics](http://localhost:9080/metrics)  
-     - **Ready status**: [http://localhost:9080/ready](http://localhost:9080/ready)  
    - To check if **Loki** is running and ready, visit:  
      - **Metrics**: [http://localhost:3100/metrics](http://localhost:3100/metrics)  
      - **Ready status**: [http://localhost:3100/ready](http://localhost:3100/ready)  
